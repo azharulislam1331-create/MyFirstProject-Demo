@@ -2,6 +2,7 @@
 This is my first  Git Repository.
 <br>
 Author : Md. Azharul Islam (Akaash)
-Skills : WEB DEVELOPMENT | SOFTWARE ENGINEER
+<br>
+Skills : WEB DEVELOPER | SOFTWARE ENGINEER (Aspiring)
 <hr>
 Keep learning & keep exploring..
